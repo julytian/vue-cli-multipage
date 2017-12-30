@@ -27,7 +27,8 @@ module.exports = {
             "assets": resolve("src/assets"),
             "js": resolve("src/assets/js"),
             "components": resolve("src/assets/components"),
-            "scss": resolve("src/assets/scss")
+            "scss": resolve("src/assets/scss"),
+            "images": resolve('src/assets/images')
         }
     },
     module: {
